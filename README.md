@@ -27,7 +27,9 @@ Masukkan Checksum yang ditemukan, maka akan muncul flagnya.
 Pada soal ini diminta menghitung jumlah packet menuju ip 184.87.193.88. Bisa dicek pada wireshark dengan menekan tombol destination lalu mencari ip yang diminta dan menghitung jumlah packetnya. Ditemukan jumlah packetnya 6
 
 ![Screenshot 2023-09-22 131744](https://github.com/who170845/Jarkom-Modul-1-IT30-2023/assets/71119774/d9dd1c82-53c4-480a-898d-85948c7b2926)
+
 Lalu masukkan jawaban dan muncul flagnya
+
 ![Screenshot 2023-09-22 132200](https://github.com/who170845/Jarkom-Modul-1-IT30-2023/assets/71119774/dc53cbfa-8c3c-430b-9dfc-63df9eddd827)
 
 # Soal No.8
